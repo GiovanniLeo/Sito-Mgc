@@ -68,3 +68,45 @@ div.imgcontent img{
 	height:80%;
 	width:80%;
 }
+
+
+/*Footer*/
+.wrapper
+{
+ background-color:#FFA500;
+ heigth:400px;
+ width:100%;
+ color:white;
+ }
+ 
+ footer ul 
+ {
+	 list-style-type:none; 
+ }
+ footer ul li 
+ {
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:10px;	
+  }
+
+.footerIco
+{
+  width:50px;
+  height:50px;
+  opacity:0.6;
+  -webkit-transition:opacity 1s;
+  -moz-transition:opacity 1s;
+  -o-transition:opacity 1s;
+}
+.footerIco:hover{
+  opacity:1;	
+}
+.leftSide
+{
+ text-align:left;	
+}
+.blockToInline
+{
+ display: inline;
+}
