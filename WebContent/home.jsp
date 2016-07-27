@@ -12,5 +12,6 @@
 	<div class="main">
 			<jsp:include page="nav.jsp"></jsp:include>
 	</div>
+			<jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>

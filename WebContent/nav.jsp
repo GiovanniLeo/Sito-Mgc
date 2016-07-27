@@ -16,9 +16,8 @@
 			<hr class="line">
 			<ul>
 				<li><a href="home.jsp">Home</a></li>
-				<li><a href="#">Agorà</a></li>
+				<li><a href="#">"Forum"</a></li>
 				<li><a href="iniziative.jsp">Iniziative</a></li>
-				<li><a href="#">Contatti</a></li>
 				<li><a href="#">Storia</a></li>
 			</ul>
 			<hr class="line">
