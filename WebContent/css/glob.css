@@ -71,29 +71,27 @@ div.imgcontent img{
 
 
 /*Footer*/
+
 .wrapper
 {
+ border-radius:20px;
  background-color:#FFA500;
- heigth:400px;
- width:100%;
+ max-width:100%;
  color:white;
  }
- 
  footer ul 
  {
 	 list-style-type:none; 
  }
  footer ul li 
  {
-	text-align:center;
-	margin-top:10px;
-	margin-bottom:10px;	
+	text-align:center;	
   }
 
 .footerIco
 {
-  width:50px;
-  height:50px;
+  max-width:50px;
+  max-height:50px;
   opacity:0.6;
   -webkit-transition:opacity 1s;
   -moz-transition:opacity 1s;
@@ -110,3 +108,13 @@ div.imgcontent img{
 {
  display: inline;
 }
+.aLineOfSpacingBoth
+{
+ margin-top:30px;
+
+}
+.aLineOfSpacingBot
+{
+margin-bottom:12px;
+}
+
