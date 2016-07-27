@@ -1,15 +1,12 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<link type="text/css" rel="stylesheet" href="css\glob.css">
-<title>Movimento Giovanile per il Cambiamento</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
 </head>
-
-
 <body>
-	
-	<div class="main">
 		<div class="start">
 			<span class="title">Movimento Giovanile per il Cambiamento</span>
 			<img class="logo" src="images/logo.png" alt="Not Found">
@@ -18,15 +15,15 @@
 		<nav>
 			<hr class="line">
 			<ul>
-				<li><a href="home.html">Home</a></li>
+				<li><a href="home.jsp">Home</a></li>
 				<li><a href="#">Agorà</a></li>
-				<li><a href="iniziative.html">Iniziative</a></li>
+				<li><a href="iniziative.jsp">Iniziative</a></li>
 				<li><a href="#">Contatti</a></li>
 				<li><a href="#">Storia</a></li>
 			</ul>
 			<hr class="line">
 		</nav>
-			
-	</div>
+
+
 </body>
 </html>
