@@ -5,7 +5,7 @@
 <link type="text/css" rel="stylesheet" href="css\glob.css">
 <link type="text/css" rel="stylesheet" href="css\structIniz.css">
 
-<link rel="shortcut icon" href="icon.png">
+<link rel="icon" href="images/logoPiccolo.png">
 <title>Movimento Giovanile per il Cambiamento</title>
 </head>
 <body>
