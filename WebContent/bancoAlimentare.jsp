@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <link type="text/css" rel="stylesheet" href="css\glob.css">
-<link rel="shortcut icon" href="">
+<link rel="shortcut icon" href="icon.png">
 <title>Insert title here</title>
 </head>
 <body>
