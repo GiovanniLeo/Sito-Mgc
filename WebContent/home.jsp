@@ -9,9 +9,9 @@
 
 
 <body>
-	
+	<jsp:include page="nav2.jsp"></jsp:include>
 	<div class="main">
-			<jsp:include page="nav2.jsp"></jsp:include>
+			
 	</div>
 			<jsp:include page="footer.jsp"></jsp:include>
 </body>
