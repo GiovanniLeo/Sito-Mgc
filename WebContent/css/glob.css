@@ -3,35 +3,32 @@ body{
 	font-family:arial;
 	background-color:#c6ebff;
 	margin:3% 15% 5% 15%;
+	min-width:380px; 
 }
 nav
 {
- height:100px;
  background-color:#ffa500;
  border-radius:20px;
 }
 nav ul
 {
  list-style-type:none;
- width:100%;
 }
 nav ul li
 {
-  display:inline;
+  display:inline-block;
   margin:3%;
 }
 
 nav ul li a
 {
   text-decoration:none;
-  padding:1.5%;
   color:white;
-  line-height:100px;
   font-size:25px;
-  
-  
+  padding:10%;
 }
-nav ul li h1
+
+nav ul li div h1
 {
   display:inline;
   color:white;
@@ -46,6 +43,7 @@ nav ul li a:hover
   transition:all 0.50s;
   border-radius:20px;
 }
+
 /*nav{
 	text-align:center;
 	border-radius:20px;
@@ -79,7 +77,6 @@ div.main{
 	background-color:#ffffff;
 	border-radius:20px;
 	padding:3%;
-	min-width:380px; /*problema del taglio della finestra*/
 }
 /*hr.line{
     display: block;

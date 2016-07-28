@@ -7,16 +7,16 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 <nav>
   <ul>
-         <li><h1>MGC-Siano</h1>
-     </li>
-         <li></li>
-         <li><a>Home</a></li>
-         <li><a>Forum</a></li>
-         <li><a>Iniziative</a></li>
-         <li><a>Storia</a></li>
+         <li><div align="center"><h1>MGC-Siano</h1></div></li>
+         <li><a href="home.jsp">Home</a></li>
+		 <li><a href="#">Forum</a></li>
+		 <li><a href="iniziative.jsp">Iniziative</a></li>
+		 <li><a href="#">Storia</a></li>
       </ul>
 </nav>
+
 </body>
 </html>
