@@ -1,11 +1,52 @@
-
+/*NavBar*/
 body{
 	font-family:arial;
 	background-color:#c6ebff;
-	margin:5% 15% 5% 15%;
+	margin:3% 15% 5% 15%;
+}
+nav
+{
+ height:100px;
+ background-color:#ffa500;
+ border-radius:20px;
+}
+nav ul
+{
+ list-style-type:none;
+ width:100%;
+}
+nav ul li
+{
+  display:inline;
+  margin:3%;
 }
 
-nav{
+nav ul li a
+{
+  text-decoration:none;
+  padding:1.5%;
+  color:white;
+  line-height:100px;
+  font-size:25px;
+  
+  
+}
+nav ul li h1
+{
+  display:inline;
+  color:white;
+  margin-right:20px;
+  font-size:35px;
+}
+
+nav ul li a:hover
+{
+  background-color:#FFFFFF;
+  color:#ffa500;
+  transition:all 0.50s;
+  border-radius:20px;
+}
+/*nav{
 	text-align:center;
 	border-radius:20px;
 	margin-bottom:5%;
@@ -33,14 +74,14 @@ div.start{
 	text-align:center;
 	margin-bottom:6%;
 	
-}
+}*/
 div.main{
 	background-color:#ffffff;
 	border-radius:20px;
 	padding:3%;
 	min-width:380px; /*problema del taglio della finestra*/
 }
-hr.line{
+/*hr.line{
     display: block;
     height:5px;
     border:0px;
@@ -67,7 +108,7 @@ div.imgcontent img{
 	width:80%;
 }
 
-
+*/
 /*Footer*/
 
 .wrapper

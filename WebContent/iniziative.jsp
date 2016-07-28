@@ -9,9 +9,10 @@
 <title>Movimento Giovanile per il Cambiamento</title>
 </head>
 <body>
-
+<jsp:include page="nav2.jsp"></jsp:include>
+<br/>
 	<div class="main">
-		<jsp:include page="nav.jsp"></jsp:include>
+		
 			<div align="center">
 				<div class="tile">
 					<h1><span class="textonimg">Cultura</span></h1>
