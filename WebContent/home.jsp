@@ -3,6 +3,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <link type="text/css" rel="stylesheet" href="css\glob.css">
+
 <title>Movimento Giovanile per il Cambiamento</title>
 <script src="javaScript/jsNavabar.js"> </script>
 <link rel="icon" href="images/logoPiccolo.png">

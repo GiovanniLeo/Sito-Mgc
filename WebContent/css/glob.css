@@ -49,53 +49,6 @@ div.main{
 	padding:3%;
 	margin:3% 15% 5% 15%;
 }
-/*Footer*/
-
-.wrapper
-{
- border-radius:20px;
- background-color:#FFA500;
- max-width:100%;
- color:white;
- }
- footer ul 
- {
-	 list-style-type:none; 
- }
- footer ul li 
- {
-	text-align:center;	
-  }
-
-.footerIco
-{
-  max-width:50px;
-  max-height:50px;
-  opacity:0.6;
-  -webkit-transition:opacity 1s;
-  -moz-transition:opacity 1s;
-  -o-transition:opacity 1s;
-}
-.footerIco:hover{
-  opacity:1;	
-}
-.leftSide
-{
- text-align:left;	
-}
-.blockToInline
-{
- display: inline;
-}
-.aLineOfSpacingBoth
-{
- margin-top:30px;
-
-}
-.aLineOfSpacingBot
-{
-margin-bottom:12px;
-}
 /*Adattamento a mobile*/
 
 @media screen and (max-width: 550px)

@@ -19,7 +19,7 @@
 		   </div>
 		 </li>
          <li id="item2"><a href="home.jsp">Home</a></li>
-		 <li id="item3"><a href="#">Forum</a></li>
+		 <li id="item3"><a href="#">Pensieri &amp; Parole</a></li>
 		 <li id="item4"><a href="iniziative.jsp">Iniziative</a></li>
 		 <li id="item5"><a href="#">Storia</a></li>
 		 <br/>

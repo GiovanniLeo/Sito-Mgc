@@ -3,21 +3,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link type="text/css" rel="stylesheet" href="css\footer.css">
 <title>Insert title here</title>
 </head>
-<body class="main">
+<body>
  <footer>
-    <div class="wrapper">
-    	<ul class="first">
-    		<li class="second">
+    	<ul class="mainList">
+    		<li class="mainEl">
+				<div align="center">
 				<h2>Email</h2>
-				<div>mgcsiano@gmail.com</div>
+					mgcsiano@gmail.com
+				</div>
     		</li>
-    		<li class="second">
-    			<h2>Social</h2>
-    			<div>
+    		<li class="mainEl">
+    			<div align="center">
+    				<h2>Social</h2>
     				<a href="https://www.facebook.com/movimento.g.cambiamento?fref=ts">
 	            	<img class="footerIco" 
 	                 alt="logo facebook" src="images/facebook-png.png"/>
@@ -29,18 +30,17 @@
 	           		</a>
     			</div>
     		</li>
-    		<li class="second">
-    			<h2>Link Utili</h2>
-    				<div class="lel">
+    		<li class="mainEl">
+    				<div align="center">
+    				<h2>Link Utili</h2>
 	    				<ul>
-		    				<li class="third"><a class="util" href="#">Comune di Siano</a></li>
-		    				<li class="third"><a class="util" href="#">Informagiovani</a></li>
-		    				<li class="third"><a class="util" href="#">Regione Campania</a></li>
+		    				<li class="secondEl"><a class="util" href="#">Comune di Siano</a></li>
+		    				<li class="secondEl"><a class="util" href="#">Informagiovani</a></li>
+		    				<li class="secondEl"><a class="util" href="#">Regione Campania</a></li>
 		    			</ul>
 	    			</div>
     		</li>
     	</ul>
-	 </div>
  </footer>
  
  
