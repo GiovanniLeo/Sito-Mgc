@@ -27,7 +27,7 @@ nav ul li a
   padding:10%;
 }
 
-nav ul li div h1
+nav ul li  h1
 {
   display:inline;
   color:white;
@@ -53,44 +53,19 @@ div.main{
 
 .wrapper
 {
- text-align:center;
  border-radius:20px;
  background-color:#FFA500;
  max-width:100%;
  color:white;
-}
- 
-footer ul
-{
- list-style-type:none;
- display:inline;
-}
-
-footer ul.first li.second
-{
- display:inline-table;
- margin:3% 7% 3% 7%;
-}
-
-footer ul li.third
-{
- display:block;
- margin:5% 0% 5% 0%;
-}
-
-footer ul li.third a.util
-{
-  text-decoration:none;
-  padding:3px;
-}
-
-footer ul li.third a.util:hover
-{
-  background-color:#FFFFFF;
-  color:#ffa500;
-  transition:all 0.50s;
-  border-radius:20px;
-}
+ }
+ footer ul 
+ {
+	 list-style-type:none; 
+ }
+ footer ul li 
+ {
+	text-align:center;	
+  }
 
 .footerIco
 {
@@ -101,8 +76,51 @@ footer ul li.third a.util:hover
   -moz-transition:opacity 1s;
   -o-transition:opacity 1s;
 }
-
-.footerIco:hover
-{
+.footerIco:hover{
   opacity:1;	
+}
+.leftSide
+{
+ text-align:left;	
+}
+.blockToInline
+{
+ display: inline;
+}
+.aLineOfSpacingBoth
+{
+ margin-top:30px;
+
+}
+.aLineOfSpacingBot
+{
+margin-bottom:12px;
+}
+/*Adattamento a mobile*/
+
+@media screen and (max-width: 550px)
+{
+
+nav ul li
+{
+  text-align:center;
+  display: block;
+  padding:1%;
+  margin: 1%;
+}
+nav ul li a
+{
+  text-decoration:none;
+  color:white;
+  font-size:25px;
+  padding:2%;
+}
+nav ul li h1
+{
+ text-align:center;
+}
+#toggle
+{
+	text-align: left;
+} 
 }

@@ -1,0 +1,15 @@
+
+.menu-icon
+{
+  display: inline-block;
+  background-color: white;
+  font-size:30px;
+  border-radius:5px;
+  color:#ffa500;
+}
+
+.icon-bar
+{
+	display:none;
+	background-color:green;
+}
