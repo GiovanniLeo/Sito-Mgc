@@ -9,7 +9,7 @@
 <title>Movimento Giovanile per il Cambiamento</title>
 </head>
 <body>
-<jsp:include page="nav2.jsp"></jsp:include>
+<jsp:include page="nav.jsp"></jsp:include>
 <br/>
 	<div class="main">
 		

@@ -7,22 +7,16 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<div class="start">
-			<span class="title">Movimento Giovanile per il Cambiamento</span>
-			<img class="logo" src="images/logo.png" alt="Not Found">
-		</div>
-		
-		<nav>
-			<hr class="line">
-			<ul>
-				<li><a href="home.jsp">Home</a></li>
-				<li><a href="#">"Forum"</a></li>
-				<li><a href="iniziative.jsp">Iniziative</a></li>
-				<li><a href="#">Storia</a></li>
-			</ul>
-			<hr class="line">
-		</nav>
 
+<nav>
+  <ul>
+         <li><div align="center"><h1>MGC-Siano</h1></div></li>
+         <li><a href="home.jsp">Home</a></li>
+		 <li><a href="#">Forum</a></li>
+		 <li><a href="iniziative.jsp">Iniziative</a></li>
+		 <li><a href="#">Storia</a></li>
+      </ul>
+</nav>
 
 </body>
 </html>

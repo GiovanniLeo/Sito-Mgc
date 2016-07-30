@@ -31,9 +31,9 @@
             </a>
    </li>
    <li class="aLineOfSpacingBot">
-     <h3>Sviluppato da &nbsp;
+     <h5>Sviluppato da &nbsp;
      G. Leo &nbsp; &amp; &nbsp;
-     P. Di Filippo</h3>
+     P. Di Filippo</h5>
    </li>
    <li class="aLineOfSpacingBot"><br></li> <!-- TAM TAM TAM THE HAMMER IS COMING -->
 </ul>

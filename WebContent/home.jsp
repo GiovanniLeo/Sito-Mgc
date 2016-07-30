@@ -9,7 +9,7 @@
 
 
 <body>
-	<jsp:include page="nav2.jsp"></jsp:include>
+	<jsp:include page="nav.jsp"></jsp:include>
 	<div class="main">
 			
 	</div>
