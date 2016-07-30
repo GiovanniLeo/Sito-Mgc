@@ -9,12 +9,13 @@
 <body>
 
 <nav>
-  <ul>
-         <li><div align="center"><h1>MGC-Siano</h1></div></li>
-         <li><a href="home.jsp">Home</a></li>
-		 <li><a href="#">Forum</a></li>
-		 <li><a href="iniziative.jsp">Iniziative</a></li>
-		 <li><a href="#">Storia</a></li>
+	
+	<ul>
+		<li><div align="center"><h1>MGC-Siano</h1></div></li>
+        <li><a href="home.jsp">Home</a></li>
+		<li><a href="#">Pensieri &amp; Parole</a></li>
+		<li><a href="iniziative.jsp">Iniziative</a></li>
+		<li><a href="#">Storia</a></li>
       </ul>
 </nav>
 
