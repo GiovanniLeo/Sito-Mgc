@@ -27,7 +27,7 @@ nav ul li a
   padding:10%;
 }
 
-nav ul li div h1
+nav ul li  h1
 {
   display:inline;
   color:white;
@@ -96,4 +96,31 @@ div.main{
 {
 margin-bottom:12px;
 }
+/*Adattamento a mobile*/
 
+@media screen and (max-width: 550px)
+{
+
+nav ul li
+{
+  text-align:center;
+  display: block;
+  padding:1%;
+  margin: 1%;
+}
+nav ul li a
+{
+  text-decoration:none;
+  color:white;
+  font-size:25px;
+  padding:2%;
+}
+nav ul li h1
+{
+ text-align:center;
+}
+#toggle
+{
+	text-align: left;
+} 
+}

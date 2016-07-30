@@ -4,17 +4,25 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<link type="text/css" rel="stylesheet" href="css\glob.css">
+<link type="text/css" rel="stylesheet" href="css\prova.css">
 </head>
 <body>
 
 <nav>
   <ul>
-         <li><div align="center"><h1>MGC-Siano</h1></div></li>
-         <li><a href="home.jsp">Home</a></li>
-		 <li><a href="#">Forum</a></li>
-		 <li><a href="iniziative.jsp">Iniziative</a></li>
-		 <li><a href="#">Storia</a></li>
+       
+         <li id="item1"><h1>MGC-Siano</h1></li>
+         <li id="toggle">
+           <div class="menu-icon">
+			&#9776;
+		   </div>
+		 </li>
+         <li id="item2"><a href="home.jsp">Home</a></li>
+		 <li id="item3"><a href="#">Forum</a></li>
+		 <li id="item4"><a href="iniziative.jsp">Iniziative</a></li>
+		 <li id="item5"><a href="#">Storia</a></li>
+		 <br/>
       </ul>
 </nav>
 
