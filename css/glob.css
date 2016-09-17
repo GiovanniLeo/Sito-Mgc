@@ -1,0 +1,130 @@
+/*NavBar*/
+body{
+	font-family:arial;
+	background-color:#c6ebff;
+	min-width:480px;
+}
+nav
+{
+ background-color:#ffa500;
+ border-radius:20px;
+}
+nav ul
+{
+ list-style-type:none;
+}
+nav ul li
+{
+  display:inline-block;
+  margin:3%;
+}
+
+nav ul li a
+{
+  text-decoration:none;
+  color:white;
+  font-size:25px;
+  padding:10%;
+}
+
+nav ul li  h1
+{
+  display:inline;
+  color:white;
+  margin-right:20px;
+  font-size:35px;
+}
+
+nav ul li a:hover
+{
+  background-color:#FFFFFF;
+  color:#ffa500;
+  -webkit-transition:all 0.50s;
+  -o-transition:all 0.50s;
+  -moz-transition:all 0.50s;
+  -ms-transition:all 0.50s;
+  border-radius:20px;
+}
+
+div.main{
+	background-color:#ffffff;
+	border-radius:20px;
+	padding:3%;
+	margin:3% 15% 5% 15%;
+}
+.hideList
+{
+ display:none;
+}
+.showList
+{
+	display: block;
+}
+.menu-icon
+{
+  display: inline-block;
+  background-color: white;
+  font-size:30px;
+  border-radius:5px;
+  color:#ffa500;
+}
+
+.icon-bar
+{
+	display:none;
+	background-color:green;
+}
+/*Adattamento a mobile*/
+
+@media screen and (max-width: 960px)
+{
+.showList
+{
+	display: none;
+}
+	
+.hideList
+{
+ max-height:500px;
+ display:block;
+}
+nav ul li
+{
+  text-align:center;
+  display: block;
+  padding:1%;
+  margin: 1%;
+}
+nav ul li a
+{
+  text-decoration:none;
+  color:white;
+  font-size:25px;
+  padding:2%;
+}
+nav ul li h1
+ {
+  text-align:center;
+ }
+.hideElement
+ {
+  display:none;
+ }
+.showElement
+ { 
+	display: block;
+ }
+.MenuText
+ {
+	text-align: right;
+ }
+.menu-button
+ { 
+  cursor: pointer;
+  text-align: left;
+ }
+.showListonClick
+{
+	display:block;
+}
+}

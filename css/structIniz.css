@@ -1,0 +1,26 @@
+div.tile{
+	text-align:center;
+	display:inline-block;
+	margin:6%;
+}
+
+div.tile img{
+	box-shadow: 10px 10px 5px #888888;
+	height:100%;
+	width:100%
+}
+
+
+span.textonimg{
+	text-align:center;
+	color:#abb1ab;
+	margin:0%;
+}
+ div.tile:hover{
+	-webkit-transform: scale(1.15);
+  	-moz-transform: scale(1.15);
+  	-o-transform: scale(1.15);
+	transform: scale(1.15);
+	transition: all 0.4s;
+	-webkit-transition: all 0.4s;
+}
