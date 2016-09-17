@@ -10,6 +10,11 @@
 <body >
       <?php include "nav.php" ?>
         <div class="main">
+        	<p>Il Movimento Giovanile si prefigge come obiettivo la <b>rivoluzione culturale</b> <br>
+        	<p>partendo dal confronto con i ragazzi su varie tematiche sociali, politiche, economice <br>
+        	<p>culturali ed ambientali.
+        	<p>Il Movimento cerca di assicurare un ruolo prioritario e principale ai giovani,<br>
+        	<p>come propulsore di idee e proposte, favorendo ed incentivando in politica di nuove figure.
         </div>
     <?php include "footer.php" ?>
 </body>
