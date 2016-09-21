@@ -1,13 +1,14 @@
 /*NavBar*/
 body{
 	font-family:arial;
-	background-color:#c6ebff;
+	background-image: url("../images/la.jpg");
 	min-width:480px;
 }
 nav
 {
- background-color:#ffa500;
- border-radius:20px;
+    background-color: rgba(128, 128, 128, 0.79);
+ border-radius:10px;
+ height: 120px;
 }
 nav ul
 {
