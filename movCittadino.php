@@ -13,11 +13,11 @@
 
 	<div class ="main">
 		<p class ="year">2016</p>
-		<img src = "images/movcitt/LocadinaBenevento.jpg">
+		<img class="imgDim" src = "images/movcitt/LocadinaBenevento.jpg" alt="Locadino Manifestazione Benevento">
 		<p class ="year">2014</p>
-		<img src ="images/movcitt/letrai.jpg">
+		<img class="imgDim" src ="images/movcitt/letrai.jpg" alt="Lettera Rai">
 		<p class = "year">2013</p>
-		<img src ="images/movcitt/DenunciaDay.jpg">
+		<img class="imgDim" src ="images/movcitt/DenunciaDay.jpg" alt="Denuncia Day">
 	</div>
 
 	<?php include "footer.php" ?>

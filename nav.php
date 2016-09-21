@@ -13,7 +13,7 @@
          <li ><a href="home.php">Home</a></li>
 		 <li ><a href="#">Pensieri&amp;Parole</a></li>  <!-- La parte del sito del bloog articoli dei ragazzi -->
 		 <li><a href="iniziative.php">Iniziative</a></li> <!-- Volantini della manifestazioni -->
-		 <li ><a href="#">Storia</a></li> 
+		 <li ><a href="storia.php">Storia</a></li> 
 		 <br/>
       </ul>
       
