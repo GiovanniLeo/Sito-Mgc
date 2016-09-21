@@ -1,26 +1,26 @@
-img{
-	height:100%;
-	width:100%;
-	margin-top:3%;
-	margin-bottom:3%;
+.imgDim{ /*used for center the image*/
+	height:50%;
+	width:50%;
+	display: block;
+	margin:  auto;
 }
 
-p.year{
+p.year{/*font size for year*/
 	text-align: center;
 	font-size:45px;
 }
 
-p.ad{
+p.ad{/*font size for advertisemet*/
 	text-align:center;
 	font-size:30px;
 }
 
 @media screen and (max-width: 780px){
-	p.year{
+	p.year{	/*font size for year*/
 		font-size:35px;
 	}
 
-	p.ad{
+	p.ad{ /*font size for advertisemet*/
 		font-size:17px;
 	}
 }

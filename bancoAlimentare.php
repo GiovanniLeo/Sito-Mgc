@@ -11,11 +11,9 @@
 <body>
 <?php include "nav.php" ?>
 	<div class="main">
-		<p class= "year">2016</p>
-		<p class="ad"><i>Prossimamente...</i>
 		<p class="year">2015</p>
-		<img src="images/bancoal/ArticoloBA.jpg">
-		<img src="images/bancoal/Ringraziamenti.jpg">
+		<img class="imgDim" src="images/bancoal/ArticoloBA.jpg" alt="Articolo di giornale Banco Alimentare">
+		<img class="imgDim" src="images/bancoal/Ringraziamenti.jpg" alt="Ringraziamenti per il Banco Alimentare">
 	</div>
 	<?php include "footer.php" ?>
 </body>

@@ -11,7 +11,7 @@
 	<?php include "nav.php" ?>
 		<div class="main">
 		<p class= "year">2016</p>
-		<img src="images/cultura/LocandinaPresentazioneSiano.jpg">
+		<img class="imgDim" src="images/cultura/LocandinaPresentazioneSiano.jpg" alt="Presentazione Libro Storia di Marcello Torre di Marcello Ravveduto">
 	</div>
 	<?php include "footer.php" ?>
 </body>
