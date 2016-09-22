@@ -35,6 +35,7 @@ a.util
   text-align:center;
   text-decoration:none;
   color:white;
+  padding: 6px 6px
 }
 
 .footerIco
@@ -54,4 +55,13 @@ a.util:hover{
   color:#ffa500;
   transition:all 0.50s;
   border-radius:20px;
+  padding: 6px 6px
+}
+
+.header
+{
+  font-size: 30px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
 }
