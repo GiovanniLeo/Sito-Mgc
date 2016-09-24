@@ -1,26 +1,44 @@
-.imgDim{ /*used for center the image*/
+.imgDim{ /**centrare l'immagine*/
 	height:50%;
 	width:50%;
 	display: block;
 	margin:  auto;
 }
 
-p.year{/*font size for year*/
+.imgLeftDim{/*posizionare l'immagine a sinistra*/
+	height:60%;
+	width:60%;
+	float: left;
+	border-radius: 10px;
+	margin-right: 2%; /*leggera separazione dalla scritta*/
+}
+
+.textNextToImage{
+	text-align: center;
+	line-height: 30px;
+}
+
+.elementDiv{
+	overflow: auto; /*serve perchè l'immagine non esca fuori dai bordi*/
+	display: inline-block;
+}
+
+p.year{/*font size per anno*/
 	text-align: center;
 	font-size:45px;
 }
 
-p.ad{/*font size for advertisemet*/
+p.ad{/*font size per avviso*/
 	text-align:center;
 	font-size:30px;
 }
 
 @media screen and (max-width: 780px){
-	p.year{	/*font size for year*/
+	p.year{	/*font size per anno*/
 		font-size:35px;
 	}
 
-	p.ad{ /*font size for advertisemet*/
+	p.ad{ /*font size per avviso*/
 		font-size:17px;
 	}
 }
