@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
 <link type="text/css" rel="stylesheet" href="css\glob.css">
 <link type="text/css" rel="stylesheet" href="css\structIniz.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="icon" href="images/logoPiccolo.png">
 <title>Movimento Giovanile per il Cambiamento</title>

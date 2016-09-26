@@ -6,6 +6,7 @@
 <link type="text/css" rel="stylesheet" href="css\glob.css">
 <link type="text/css" rel="stylesheet" href="css\inTile.css">
 <link rel="icon" href="images/logoPiccolo.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Movimento Giovanile per il Cambiamento</title>
 </head>
 <body>
