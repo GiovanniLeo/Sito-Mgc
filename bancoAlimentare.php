@@ -13,9 +13,15 @@
 <?php include "nav.php" ?>
 	<div class="main">
 		<p class="year">2015</p>
+		<img class="imgDim" src="images/bancoal/mgc2.jpg" alt="Manifesto Banco Alimentare">
+		<br>
+		<p class="year">2013</p>
 		<img class="imgDim" src="images/bancoal/ArticoloBA.jpg" alt="Articolo di giornale Banco Alimentare">
 		<br>
+		<img class="imgDim" src="images/bancoal/mgc3.jpg" alt="Foto di noi">
+		<br>
 		<img class="imgDim" src="images/bancoal/Ringraziamenti.jpg" alt="Ringraziamenti per il Banco Alimentare">
+		<br>
 	</div>
 	<?php include "footer.php" ?>
 </body>

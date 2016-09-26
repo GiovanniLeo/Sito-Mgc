@@ -12,7 +12,13 @@
 	<?php include "nav.php" ?>
 		<div class="main">
 		<p class= "year">2016</p>
+		<img class="imgDim" src="images/cultura/mgc.jpg" alt="Presentazione Libro Storia di Marcello Torre di Marcello Ravveduto">
+		<br>
 		<img class="imgDim" src="images/cultura/LocandinaPresentazioneSiano.jpg" alt="Presentazione Libro Storia di Marcello Torre di Marcello Ravveduto">
+		<br>
+		<p class= "year">2013</p>
+		<img class="imgDim" src="images/cultura/mgc11.jpg" alt="Giornata dell'arte">
+		<br>
 	</div>
 	<?php include "footer.php" ?>
 </body>
