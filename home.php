@@ -18,6 +18,7 @@
 
       <?php include "slider.php" ?>
        <div class="main"> 
+         <h8>MOVIMENTO DEI GIOVANI PER IL CAMBIAMENTO DI SIANO</h8>
         	<p>Il Movimento dei Giovani per il Cambiamento di Siano si prefigge come obiettivo la <b>rivoluzione culturale</b> <br>
         	<p>partendo dal confronto con i ragazzi su varie tematiche sociali, politiche, economice <br>
         	<p>culturali ed ambientali.

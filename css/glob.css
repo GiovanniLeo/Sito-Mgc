@@ -1,11 +1,14 @@
 /*NavBar*/
 body{
-	font-family:arial;
+	font-family:raleway;
 	background-color:#c6ebff;
 
   background: url("../images/la.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+}
+h8 {
+font-family: bold;
 }
 nav
 {

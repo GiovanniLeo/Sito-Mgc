@@ -19,16 +19,13 @@ body { background-color: #fff; color: #000; padding: 0; margin: 0; }
 <div class="ism-slider" data-play_type="once-rewind" id="my-slider">
   <ol>
     <li>
-      <img src="images/1.jpg">
-      <div class="ism-caption ism-caption-0">Insieme a voi</div>
+      <img src="images/mgc12.jpg" alt="Presente">
     </li>
     <li>
-      <img src="ism/image/slides/office-620822_1280.jpg">
-      <div class="ism-caption ism-caption-0">Working <b>remotely</b></div>
+      <img src="images/1.jpg" alt="Noi">
     </li>
     <li>
-      <img src="ism/image/slides/telephone-586268_1280.jpg">
-      <div class="ism-caption ism-caption-0">On the move</div>
+      <img src="images/mgc16.jpg" alt="Noi">
     </li>
   </ol>
 </div>
