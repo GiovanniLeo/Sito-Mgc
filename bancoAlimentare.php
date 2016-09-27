@@ -16,7 +16,7 @@
 		<img class="imgDim" src="images/bancoal/mgc2.jpg" alt="Manifesto Banco Alimentare">
 		<br>
 		<p class="year">2013</p>
-		<img class="imgDim" src="images/bancoal/ArticoloBA.jpg" alt="Articolo di giornale Banco Alimentare">
+		<img class="imgDim" src="images/bancoal/ArticoloBA.JPG" alt="Articolo di giornale Banco Alimentare">
 		<br>
 		<img class="imgDim" src="images/bancoal/mgc3.jpg" alt="Foto di noi">
 		<br>

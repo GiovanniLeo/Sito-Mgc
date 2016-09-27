@@ -21,7 +21,7 @@
 	            	<img class="footerIco" 
 	                 alt="logo facebook" src="images/facebook-png.png"/>
 	            	</a>
-	            <span>&nbsp;</span>
+	           <span>&nbsp;</span>
 	            	<a href="https://plus.google.com/u/0/104526186703368645205/posts">
 	            	<img class="footerIco" 
 	                alt="logo google" src="images/Google-png.png"/>
@@ -33,13 +33,14 @@
     				
 	    				<ul>
 	    				    <li class="header">Link Utili</li>
-		    				<li class="secondEl"><a class="util" href="#">Comune di Siano</a></li>
-		    				<li class="secondEl"><a class="util" href="#">Informagiovani</a></li>
-		    				<li class="secondEl"><a class="util" href="#">Regione Campania</a></li>
+		    				<li class="secondEl"><a class="util" href="http://www.comune.siano.sa.it/">Comune di Siano</a></li>
+		    				<li class="secondEl"><a class="util" href="http://www.informagiovanisalerno.it/informagiovani/default.asp">Informagiovani</a></li>
+		    				<li class="secondEl"><a class="util" href="http://www.regione.campania.it/">Regione Campania</a></li>
 		    			</ul>
 	    			</div>
     		</li>
     		<h5>Developed by Giovanni leo, Paolo Di Filippo, Mirko Aliberti</h5>
+    		<br>
     	</ul>
  </footer>
  
