@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta charset="utf-8">
 <link type="text/css" rel="stylesheet" href="css\footer.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Insert title here</title>
 </head>
 <body>
@@ -17,12 +18,12 @@
     		<li class="mainEl">
     			<div align="center">
     				<h2>Social</h2>
-    				<img class="footerIco" alt="logo facebook" src="images/facebook-png.png">
-    				<a href="https://www.facebook.com/movimento.g.cambiamento?fref=ts"></a>
+    				<a href="https://www.facebook.com/movimento.g.cambiamento?fref=ts" style="text-decoration:none;">
+    				<img class="footerIco" alt="logo facebook" src="images/facebook-png.png"></a>
     				</img>
 	           <span>&nbsp;</span>
-	            	<img class="footerIco" alt="logo google" src="images/Google-png.png">
-	           		<a href="https://plus.google.com/u/0/104526186703368645205/posts"></a>
+	           		<a href="https://plus.google.com/u/0/104526186703368645205/posts" style="text-decoration:none;">
+	           		<img class="footerIco" alt="logo google" src="images/Google-png.png"></a>
 	           		</img>
     			</div>
     		</li>
