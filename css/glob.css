@@ -1,6 +1,7 @@
 /*NavBar*/
+@import 'https://fonts.googleapis.com/css?family=Raleway';
 body{
-	font-family:raleway;
+	font-family: 'Raleway', sans-serif;
 	background-color:#c6ebff;
 
   background: url("../images/la.jpg");
