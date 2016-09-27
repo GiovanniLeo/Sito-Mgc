@@ -17,15 +17,13 @@
     		<li class="mainEl">
     			<div align="center">
     				<h2>Social</h2>
-    				<a href="https://www.facebook.com/movimento.g.cambiamento?fref=ts">
-	            	<img class="footerIco" 
-	                 alt="logo facebook" src="images/facebook-png.png"/>
-	            	</a>
+    				<img class="footerIco" alt="logo facebook" src="images/facebook-png.png">
+    				<a href="https://www.facebook.com/movimento.g.cambiamento?fref=ts"></a>
+    				</img>
 	           <span>&nbsp;</span>
-	            	<a href="https://plus.google.com/u/0/104526186703368645205/posts">
-	            	<img class="footerIco" 
-	                alt="logo google" src="images/Google-png.png"/>
-	           		</a>
+	            	<img class="footerIco" alt="logo google" src="images/Google-png.png">
+	           		<a href="https://plus.google.com/u/0/104526186703368645205/posts"></a>
+	           		</img>
     			</div>
     		</li>
     		<li class="mainEl">
