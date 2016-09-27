@@ -21,7 +21,7 @@
          <li class="menu-button" onclick="showMenu()">
            <div class="menu-icon">
 			&#9776; 
-		   </div><h1> Menu</h1>
+		   </div><h1 style="font-size:2em"> Menu</h1>
 		 </li>
 	 </ul>
      

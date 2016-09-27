@@ -8,7 +8,7 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
 }
-h8 {
+h3 {
 font-family: bold;
 }
 nav
@@ -135,5 +135,10 @@ nav ul li h1
 .showListonClick
 {
 	display:block;
+}
+div.main
+{
+  margin-right: 0;
+  margin-left: 0
 }
 }

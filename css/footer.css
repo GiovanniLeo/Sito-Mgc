@@ -1,4 +1,3 @@
-@CHARSET "ISO-8859-1";
 
 footer{
   text-align:center;
@@ -10,12 +9,13 @@ footer{
 footer ul
 {
   list-style-type:none;
-  padding:0;
+  padding:0px;
 }
 
 footer ul.mainList
 {
   margin:4%;
+  
 }
 
 footer ul.mainList li.mainEl
